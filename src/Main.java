@@ -5,5 +5,6 @@ public class Main {
                 2
                         8
                                 9
+                                        10
     }
 }
